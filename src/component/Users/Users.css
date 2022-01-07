@@ -1,0 +1,16 @@
+.user{
+    display: flex;
+    border: 1px black solid;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    padding: 10px;
+}
+
+.person{
+    margin: 30px;
+}
+
+.image{
+    margin: 60px;
+}
